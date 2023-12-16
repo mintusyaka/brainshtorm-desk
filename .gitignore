@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TEMP/FileMapping/Client/.vs/Client
+/TEMP/FileMapping/Client/x64/Debug
+/TEMP/FileMapping/Client/Client/x64/Debug/Client.tlog
+/TEMP/FileMapping/Server/.vs/Server
+/TEMP/FileMapping/Server/Server/x64/Debug/Server.tlog
+/TEMP/FileMapping/Server/x64/Debug
