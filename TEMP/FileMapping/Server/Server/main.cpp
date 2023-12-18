@@ -58,7 +58,7 @@ int main(void) {
 	//		break; 
 	//	}
 	//}
-	Sleep(10000);
+	Sleep(iTimerDuration * 1000);
 
 	CopyMemory(pSharedMem, "0", 1);
 
