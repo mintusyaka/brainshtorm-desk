@@ -1,2 +1,4 @@
-﻿  main.cpp
+﻿  lab_interface.cpp
+  main.cpp
+  Generating Code...
   Server.vcxproj -> C:\Users\Stas\Desktop\labs\3rd-course\os\lab9\TEMP\FileMapping\Server\x64\Debug\Server.exe
